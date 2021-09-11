@@ -8,5 +8,3 @@ meta: "Springfield"
 ---
 
 Welcome!
-
-[the process work]
