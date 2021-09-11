@@ -52,6 +52,7 @@ minima:
 
 # Build settings
 theme: minima
+skin: yellow
 
 plugins:
  - jekyll-feed
